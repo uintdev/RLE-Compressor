@@ -48,6 +48,6 @@ rlecompressor.py d compressed.bin decompressed.bin
 
 ## More information
 
-To better demonstrate what could be done to improve how compression is done, here is an infographic with few methods.
+To better demonstrate what could be done to improve how compression is done, here is an infographic with a few methods.
 
 ![RLE methods](rlemethods.png)
